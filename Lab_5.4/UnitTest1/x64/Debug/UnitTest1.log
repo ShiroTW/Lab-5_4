@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(700,5): error MSB6006: "CL.exe" завершилась с кодом 2.
+C:\Users\user\source\repos\Lab_5.4\UnitTest1\UnitTest1.cpp(15,25): error C3861: IteractiveSum: идентификатор не найден
